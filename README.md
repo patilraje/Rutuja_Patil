@@ -47,7 +47,40 @@ GPA: 4.0
 - Engineered an automated class availability checker that runs at regular intervals, notifying users via SMTP in real-time when seats become available for a specific course.
 - Demonstrated problem-solving skills by creating a practical solution to monitor and alert users about changes in a dynamic online environment, showcasing the ability to automate repetitive tasks.
 
-... (other projects omitted for brevity)
+**SunHacks, MLH**  
+*November 2023*  
+*Python, Docker, Flutter*
+
+- Developed an image-to-text conversion model called 'Noted.' using Flutter and Tesseract OCR to extract notes from pictures.
+- Trained an NLP model to predict the subject and automated the segregation of images into class-specific albums.
+
+**Revolution UC, MLH**  
+*February 2023*  
+*Java, Flutter, Jupyter Notebooks*
+
+- Developed a self-learning AI chatbot called 'BH.AI' that talks with users as a personal therapist and a self-journaling platform.
+- Collaborated with a team of 4 and integrated extensive conversational data set into the NLP machine learning model.
+
+**Connect 4**  
+*September 2023*  
+*C++*
+
+- Engineered a console-based Connect 4 game in C++ with a seamless user interface, dynamic move animations, and solid game logic for accurate move tracking and timely winner announcements.
+- Improved gameplay with a replay option for starting new games, ensuring a straightforward and enjoyable interaction for players.
+
+**Arduino Plant Watering System**  
+*October 2022*  
+*Arduino IDE, C++*
+
+- Engineered a self-watering system using Arduino Nano saving approximately 10 hours/week in manual labor.
+- Gained an in-depth understanding of Arduino schematics, leading to a 25% improvement in prototyping efficiency.
+
+**Java Lists (DS algo)**  
+*October 2022*  
+*Java*
+
+- Developed and optimized multiple data structures in Java, leading to a 30% reduction in runtime for associated algorithms.
+- Adapted data structures to fulfill unique project requirements, increasing overall satisfaction by 40%.
 
 ## Leadership / Extracurricular
 
