@@ -4,7 +4,7 @@
 
 **Arizona State University**  
 *December 2025*  
-Bachelor of Science in Computer Science  
+Bachelor of Science in Computer Systems Engineering
 GPA: 4.0
 
 ## Relevant Coursework
