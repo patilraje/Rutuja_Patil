@@ -19,6 +19,11 @@ GPA: 4.0
 - Computer Architecture
 - Electric Circuits
 - Software Engineering
+- Embedded Systems
+- Digital Hardware Design
+- Electric circuits
+- Operating Systems
+- Software Quality Assurance and Testing
 
 ## Technical Skills
 
@@ -29,6 +34,14 @@ GPA: 4.0
 - **Certifications**: AWS Cloud Technical Essentials, Intro to TensorFlow for AI, ML and Deep Learning
 
 ## Experience
+
+**Automation Intern**
+*Catenactio*
+*Los Angeles, CA*
+*March 2024 -- June 2024*
+
+- Implemented and configured a Wazuh SIEM system on an Ubuntu server, integrating multiple custom log decoder plugins using the Wazuh API to enhance log parsing and security monitoring.
+- Developed a bot for automating log analysis and testing regular expressions, ensuring accurate and efficient log parsing for improved incident response within the Wazuh system.
 
 **Software Engineer Intern**  
 *Adagrad*  
